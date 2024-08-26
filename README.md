@@ -18,9 +18,9 @@
   ### SetUp
   To install required packages 
   
-    ```
-    pip install -r requirements.txt
-    ```
+  ```
+  pip install -r requirements.txt
+  ```
     
   Create admin user
   
