@@ -7,10 +7,11 @@
 - RestFramework
 - BeautifulSoup
 - Requests
-- 
+  
 ## Featues :
-- RESTful API Endpoints
-- Links [ "/food" (all) , "/vegetables" , "/fruit" , "/beans" , "/fish" ,  "/nuts" , "/cheese" , "/fried-rice" , "/macaroni" , "/bread" , "/egg-whites" ]
+- RESTful API Endpoints :
+  [ "/food" (all) , "/vegetables" , "/fruit" , "/beans" , "/fish" ,  "/nuts" , "/cheese" , "/fried-rice" , "/macaroni" , "/bread" , "/egg-whites" ]
+- Returns Fats , Carbs , Proteins and Calories
 
 ## Installation :
   ### Requirements
