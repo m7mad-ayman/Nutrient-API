@@ -20,20 +20,25 @@
     ```
     pip install -r requirements.txt
     ```
+    
   Create admin user
     ```
     python manage.py createsuperuser
     ```
+    
   Create database
     ```
     python manage.py makemigrations
     python manage.py migrate
     ```
+    
   To run  Web Scraping file app/management/commands/scrap.py
   ```
     python manage.py scrap
     ```
+
   To run the server
+
 ```
     python manage.py runserver
     ```
